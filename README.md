@@ -3,6 +3,7 @@ Name: Vijay Kumar M
 USN: 1JB22AI060
 Course: Gen AI Android App Develpment
 Assignemnt : 2
+Questions attempted: 20
 
 
 📌 Project Overview
@@ -25,4 +26,5 @@ Algorithm optimization
 
 
 All programs are implemented using clean, readable, and modular code practices.
+
 
